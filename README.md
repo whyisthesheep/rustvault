@@ -22,5 +22,5 @@ Generate (length) - Generate a new password
 ```
 
 # Todo
-- [] Encrypt db
-- [] Update randomisation
+- [ ] Encrypt db
+- [ ] Update randomisation
