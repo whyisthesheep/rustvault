@@ -16,9 +16,9 @@ This is not designed to be used
 
 ```
 init - Initialise the db
-Add (service) (username) - Add a login to the db
-Get (service) - Recall a login from the db
-Generate (length) - Generate a new password
+add (service) (username) - Add a login to the db
+get (service) - Recall a login from the db
+generate (length) - Generate a new password
 ```
 
 # Todo
